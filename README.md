@@ -111,7 +111,7 @@ Production PyTorch
 | Project | Stack | Highlights |
 |---------|-------|------------|
 | [**Scalable AI/ML Platform**](#) | PySpark · Airflow · MLflow · JupyterHub · K8s · AWS | End-to-end ML platform with DAG orchestration, model registry, auto-scaling |
-| [**Financial Forecasting Pipeline**](#) | (https://github.com/Udiation/store-sales-forecast) | XGBoost · Python · Pandas · Scikit-learn | MAPE 6.59% · 36.6% over baseline · SHAP attribution |
+| [**Financial Forecasting Pipeline**](#) |  XGBoost · Python · Pandas · Scikit-learn | MAPE 6.59% · 36.6% over baseline · SHAP attribution |
 | [**Multi-Agent AI System**](#) | LangChain · LangGraph · MCP · FAISS · FastAPI | Agentic RAG · 3× throughput · RAGAS evaluation |
 | [**Healthcare RAG Assistant**](#) | LangChain · GPT-4 · FAISS · RAGAS · DeepEval | Clinical NLP · AI guardrails · Faithfulness scoring |
 | [**CEC-DuelNet (IEEE)**](https://ieeexplore.ieee.org/abstract/document/11401676) | PyTorch · Python · DDQN | First-author publication · 30% latency reduction |
