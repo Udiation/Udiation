@@ -184,15 +184,13 @@ Production PyTorch
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education 
 
 | | Institution | Program | Year |
 |--|-------------|---------|------|
-| 🏛️ | **IIT Patna** | M.Tech Artificial Intelligence | 2024–2026 |
-| 🎓 | Techno India College of Technology | B.Tech Electrical Engineering (8.68 CGPA) | 2018–2022 |
-| 📜 | Microsoft | Azure AI Fundamentals (AZ-900) | 2024 |
-| 📜 | DeepLearning.AI | Generative AI with LLMs | 2024 |
-| 📜 | Harvard University | Probability & Statistics | 2023 |
+| 🏛️ | **Indian Institute of Technology (IIT) Patna** | M.Tech Artificial Intelligence | 2024–2026 |
+| 🎓 | Techno India College of Technology | B.Tech Electrical Engineering | 2018–2022 |
+
 
 ---
 
